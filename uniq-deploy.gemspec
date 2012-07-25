@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
   
 Gem::Specification.new do |s|
   s.name        = "uniq-deploy"
-  s.version     = "0.0.1"
+  s.version     = "1.0.0" # see http://semver.org/
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ivan Kasatenko"]
   s.email       = ["sky@uniqsystems.ru"]
